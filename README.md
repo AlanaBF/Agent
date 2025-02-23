@@ -62,6 +62,9 @@ The format should be:
 - Input: "Search for information on Alana Barrett-Frew"
 - Output: "Alana Barrett-Frew is a proactive junior Full Stack Developer and AI Engineer at Version 1. She specializes in AI Virtual Assistants using Microsoft Azure, Python, React, and TypeScript. Alana is certified in AZ-900, AI-900, and AI-102. She is passionate about leveraging technology to solve meaningful challenges and has transitioned from a two-decade career as an educator and leader into the tech industry."
 
+![Search for Alana Barrett-Frew](./assets/Alana1.png)
+![Search for Alana Barrett-Frew](./assets/Alana2.png)
+
 ### Webpage Visits
 
 - Visit a webpage and retrieve information:
