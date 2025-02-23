@@ -2,6 +2,8 @@
 
 ## Introduction
 
+This is part of my learning from the Hugging Face Agents Course, which I have adapted and added to with new tools.
+
 This agent is a code-based conversational AI that uses the SmolAgents framework to provide a range of tools and functionalities. The agent is designed to assist with various tasks, including weather forecasting, language translation, and time zone conversions.
 
 ## Features
